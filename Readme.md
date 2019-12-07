@@ -1,12 +1,17 @@
 # Auto.js
+这是一个个人修改版的Auto.js软件
+官方开源版本已经停更，新版本不开源，屏蔽某些软件，并且收费。
+有什么需要的功能就尝试修改开源版本来实现吧..
+
+##以下是原版介绍
+
+
+
+
+
+
+
 ## 简介
-一个支持无障碍服务的Android平台上的JavaScript IDE，其发展目标是JsBox和Workflow。
-
-同时有[VS Code 插件](https://github.com/hyb1996/Auto.js-VSCode-Extension)可提供基础的在桌面开发的功能。
-
-下载地址：[酷安](http://www.coolapk.com/apk/org.autojs.autojs)
-
-Alpha版本：[Releases](https://github.com/hyb1996/NoRootScriptDroid/releases)
 
 官方文档：https://hyb1996.github.io/AutoJs-Docs/
 
