@@ -13,7 +13,7 @@ import org.junit.Assert.*
  * Created by Stardust on 2017/5/5.
  */
 class DfsFilterTest {
-
+/* 
     private class RandomFilter : Filter {
 
         private val mRandom = Random()
@@ -35,6 +35,6 @@ class DfsFilterTest {
         }
         println(TestUiObject.max)
         assertEquals(1, TestUiObject.count.toLong())
-    }
+    } */
 
 }

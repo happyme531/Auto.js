@@ -26,6 +26,7 @@ public class ExampleUnitTest {
 
     @Test
     public void test() throws IOException {
+        /*
         File file = new File("C:\\Users\\Stardust\\Desktop\\1.txt");
         System.out.println(PFiles.read(file));
         String url = "http://posttestserver.com/post.php?dir=example";
@@ -39,9 +40,11 @@ public class ExampleUnitTest {
         Request request = new Request.Builder().url(url).post(formBody).build();
         Response response = client.newCall(request).execute();
         System.out.println(response.body().string());
+        */
     }
 
     public boolean equals(int i, int j) {
         return i == j;
     }
+    
 }

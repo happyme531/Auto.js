@@ -12,7 +12,11 @@ configurations.all {
         force "com.android.support:support-v4:${SupportLibVersion}"
     }
 }
-
+ android {
+      lintOptions {
+          abortOnError false
+      }
+  }
 android {
     compileSdkVersion versions.compile
     buildToolsVersion versions.buildTool
